@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202490575466",
+    "firebase_url": "https://signupsigninfirebasedemo.firebaseio.com",
+    "project_id": "signupsigninfirebasedemo",
+    "storage_bucket": "signupsigninfirebasedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202490575466:android:0875854662b194e350e813",
+        "android_client_info": {
+          "package_name": "com.example.signupsigninfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202490575466-sk1hphsljb1as5ern4c5n6h17tj12i19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signupsigninfirebasedemo",
+            "certificate_hash": "f510b7e66d7e728dfb746f5c727b3cef40628c25"
+          }
+        },
+        {
+          "client_id": "202490575466-s6jh5004f3mapa29ksgrvi8k3p6210l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkDSPctURPFxIf0V959gaumDNUJwtlcao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202490575466-s6jh5004f3mapa29ksgrvi8k3p6210l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
